@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652412982506",
+    "firebase_url": "https://ieeesate.firebaseio.com",
+    "project_id": "ieeesate",
+    "storage_bucket": "ieeesate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652412982506:android:781062643aec705b",
+        "android_client_info": {
+          "package_name": "com.curtin.ieeesate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652412982506-5paebntasgnja9e5te5969r80b637lb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.curtin.ieeesate",
+            "certificate_hash": "e5165d2d708f1dbdd3e6ffe7e795cc72ddf49a81"
+          }
+        },
+        {
+          "client_id": "652412982506-6afls3hi16uu364u389f61s8tfc13s90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKw63KVKUfLbDUxP354cnOfGUZoXfcBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652412982506-6afls3hi16uu364u389f61s8tfc13s90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

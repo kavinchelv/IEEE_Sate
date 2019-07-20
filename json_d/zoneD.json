@@ -1,0 +1,81 @@
+[
+  {
+    "zoneImage":"assets/stemFun.png",
+    "organizer":"PPD Miri /n /n Dr. Ling Mei Teng /n /n En. Kamel Pozan /n /n Curtin Volunteers",
+    "aboutOrganizer":"Pejabat Pendidikan Daerah (PPD) Miri located at Tingkat 2, Blok 1 Wisma Persekutuan Jalan Kipas, 98000 Miri. PPD Miri monitors 44 primary schools and 15 secondary schools in the Miri District. PPD Miri is headed by Hajah Shirini Mastura Bt Mohd Zulkifli. PPD Miri strongly supports STEM activities in every school in Miri.",
+    "activity":"STEM Fun",
+    "activityDescription":"Let’s Do it: By exposing students to STEM and giving them opportunities to explore STEM-related concepts, they will develop a passion for it and hopefully pursue a job in a STEM field. Activities inside include building 3D structure, water slides, sponge sailboat and bridge building. \n Little Scientist: Learning how to do scientific research and present students’ findings in their own way. Activities include Float or sink?, Invisible Message, walking water and flying kite. \n Maths Playground: Hooked on these fun and effective math games so they can keep their number skills sharp! The activities offering mathematics in an enjoyable and easy-to-learn manner Activities inside include Maths Puzzle With Matchsticks, Math Hopscotch, Tangrams, Congkak, Sudoku, Dart/Sumpit, Treasure hunt." ,
+    "logo":[
+      "assets/kpm.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/careerPuzzle.png",
+    "organizer":"Sekolah Menengah Kebangsaan Saint Columbia", 
+    "aboutOrganizer":"Sekolah Menengah Kebangsaan Saint Columba (Saint Columba's Secondary School) or St. Co, as it is referred to by the locals, is the oldest school in Miri. It is located just one kilometre from the city centre. The school was established in 1929 by Canon Paul Chong En Siong and is currently headed by Madam Robinette Tiong Ai Giek. The school educates students from Transition to Secondary 5 level and it prepares students for the Penilaian Menengah Rendah and Sijil Pelajaran Malaysiaexaminations which are administered by the Ministry of Education. It was made 'Sekolah Harapan Negara' in the year 1993. SMK St.Columba is a missionary school located in Miri, Sarawak, Malaysia. It is the oldest school in Miri, having been established in 1929 by Father Paul Chong En Siong.",
+    "activity":"Career Puzzle",
+    "activityDescription":"Career Puzzle is a role-play corner presented by Peer Guidance Prefect (PRS) from SMK St Columba. This corner allows children who visit the booth to paly station games related to adult jobs and earn stamps from the booths. Activities range from engineer, geologist, businessman etc.  This program, initiated by the group of students, aims to give a brief introduction about career identified.  With this, we hoping that children who visit us can understand themselves more and do earlier planning in life.",
+    "logo":[
+      "assets/smkColumbia.png"     
+    ]
+  },
+  {
+    "zoneImage":"assets/artSculpture.png",
+    "organizer":"Leo Club of Curtin University Malaysia",
+    "aboutOrganizer":"Leo Club of Curtin University is a youth organization of Lions Clubs International. The word "Leo" stands for Leadership, Experience, Opportunity. Leo club encourages youths to develop leadership qualities by participating in social service activities. They are dependent on a Lions club to sponsor and initiate a Leo club. Leo Club members are addressed as "Leos." They conduct various projects in the fields of health care, elders, children, differently abled, literacy and education, and self-development. Leos can raise funds by conducting fund-raising projects. They can conduct projects with another Leo club, sponsoring Lions club, or with an outside organization. Leo clubs are sponsored by Lions clubs and comprise an official program of Lions Clubs International. LEO Club is the largest youth club of voluntary character in the world, present in 140 countries with over 160,000 members. Leo Club of Curtin University is in collaboration with IEEE Curtin University to spread knowledge, awareness, and innovation sparkles towards the public and students. Leo club is looking forward to the participations of public and students to accomplish the goals and intentions of the exhibition.",
+    "activity":"Art Sculpture",
+    "activityDescription":"Art Sculpture is the collaboration between LEO clubs and IEEE Curtin Malaysia Student Branch. It aims to enhance the public’s interest in sculpture building science and provide a platform to promote knowledge and idea sharing. Participants will be grouped and are required to complete the sculpture building program with the limited material and information provided. This allows the participants to showcase their technical skills and to practice creative thinking. Leo Club is looking forward to the participation of the public in spreading knowledge and inspiration.",
+    "logo":["assets/leoClub.png"]
+  },
+  {
+    "zoneImage":"assets/lightOfBorneo.png",
+    "organizer":"AIESEC Curtin Malaysia \n \n Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMB student chapter)",
+    "aboutOrganizer":"AIESEC is the largest youth-led organization in the world and provides a global platform for youth leadership development. We enable this development through volunteering and interning abroad.  AIESEC offers young people the opportunity to participate in international volunteer projects and internships. You can experience leadership and participate in a global learning environment through our exchange products: \n Global Volunteer - A 6-weeks volunteer project in a local school or NGO, where you will contribute to the Global Sustainable Development Goals.\n Global Talent - A 6 to 12 months internship with a corporate partner where you will differentiate yourself and gain professional experience.\n Global Entrepreneur - A 8 to 12 weeks internship in a fast-paced start-up environment where you will start your entrepreneurial journey. \n \n IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.",
+    "activity":"Light of Borneo",
+    "activityDescription":"Light of Borneo (LoB) is a program initiated by AIESEC Curtin Malaysia and IEEE Curtin Malaysia student branch to gather volunteers in solving community issues using technology. This program is aimed to build and deliver solar powered lamps to the under-privileged communities, which are constantly facing the issue of electricity shortage in Sarawak. Volunteers and communities are trained with advanced technical knowledge about renewable energy and the construction of a simple lamp. In addition, LoB also raises the awareness and the importance of education towards humanity advancement.",
+    "logo":[
+	"assets/ieeecmsb.png",
+    "assets/aiesec.png"
+	]
+  },
+  {
+    "zoneImage":"assets/planetarium.png",
+    "organizer":"Planetarium Sultan Iskandar/Alfean Aziz (Pen. Pegawai Tadbir) \n \n Kementerian Pendidikan, Sains Dan Penyelidikan Teknologi Sarawak",
+    "aboutOrganizer":"The Sultan Iskandar Planetarium (Malay: Planetarium Sultan Iskandar) is planetarium in Kuching, Sarawak, Malaysia. It is also the first planetarium to be constructed in Malaysia on 19 January 1989. Planetarium is a 13 meter wide globe equipped with projector German Zeiss M1015. It can be used to display 5000 planets in the planetarium. This theater is able to accommodate 180 participants. It is equipped with Mirror Dome Technology. Two shows will be displayed, i.e. Dawn of the Space Age dan Secret Cardboard Rocket.",
+    "activity":"Planetarium",
+    "activityDescription":"Astronomy is not just full of confusing mathematics and physics, it's also full of fun activities and discoveries. It is a Portable Planetarium with 5 minutes planetarium show about astronomy and space science. There are activities like Portable Planetarium, Making Star Chart,Cube Puzzle box, Construction game and learn to use stellarium.",
+    "logo":["assets/psiLogo.png"]
+  },
+  {
+    "zoneImage":"assets/miriMaidCafe.png",
+    "organizer":"Miri Cosplay Club/Sunny Flower",
+    "aboutOrganizer":"We are Miri Cosplay Club. Our members consist of those who are cosplayers, photographers, performers, anime lovers, gamers and etc. (https://www.facebook.com/sunnyflower95)",
+    "activity":"Miri Maid Cafe",
+    "activityDescription":"Miri Cosplay club present the Maid Cafe. We would be selling desserts such as cookies, brownies and some snacks. We would also be having game session for those who would like to engage/interact with our maid/butlers. The customer will be entitled for one free photo for every game he/she plays with the maid/butler of his/her choice. The interactive games are as follows:- \n \n 1) Ousama/King Game \n This game is where sticks will be prepared with numbers and only one will be the king. The king will to order any number of his/her choice to do an order which will be randomly picked from a box. (eg. Number 2 has to buy Number 5 a drink!) \n \n 2) Pirate and Swords game \n The loser will be the one who inserts the sword and the pirate shoots out of the barrel. \n \n 3) Penguin Ice Block \n The loser would be whoever lets the penguin falls off the ice cube.",
+    "logo":["assets/miriCosplayClub.png"]
+  },
+  {
+    "zoneImage":"assets/aquaponic.png",
+    "organizer":"JomTani",
+    "aboutOrganizer":"JomTani is an Agricultural Business Intelligence Company. Our services cover all three of the food value chain, starting from crop production, farm input management, cashflow process and planning for farmers and aspiring agropreneurs.",
+    "activity":"Aquaponic",
+    "activityDescription":"Aquarium with fish and crayfish, water pump to the plant on top of the aquarium. Adding PH sensors on the water to ensure it remain alkaline. Temperature sensor to check the water still suit the aquatics. Water level sensor to check water in aquarium. if less water, add water into the aquarium. Optional: camera to check the harvesting time of vegetables.",
+    "logo":["assets/jomtani.png"]
+  },
+  {
+    "zoneImage":"assets/gyov.png",
+    "organizer":"Sarawak Skills Development Centre (PPKS) \n \n International College of Advanced Technology Sarawak (i-CATS) Lutong, Miri.",
+    "aboutOrganizer":"Sarawak Skills Development Centre (PPKS) Miri Branch was launched on 29 May 2007. The new regional office in Miri will cater for the communities in Sarawak’s northern region both for the school leaver’s programmes and skills enhancement training for industrial workers. Currently, these centre have offered Sijil Kemahiran Malaysia (SKM) in Mechatronics, Industrial Electronics, Electrical Technician, Computer System and Office Management. Morever, Diploma Kemahiran Malaysia (DKM) also being offered for Mechatronics and Industrial Electronics. In 2015, PPKS Miri has also introduced Vocational Training Officer (VTO) course for SKM and DKM graduates. These courses to-date have been identified as critical courses for the industries in Miri such as the vibrant oil and gas industry as well as palm oil industry. \n Since its inception in January 2007, PPKS Miri has been organizing skills upgrading programmes for the present workforce, especially targeted for the industrial sector in the state. This is in line with the mission of the centre in upgrading the skills of the workforce in Sarawak.\n The centre had been appointed as one of the authorized training centre under the SME Corp. Malaysia Training in which eligible SMEs sending their staff for training at PPKS will utilize up to 80% of the training fund for courses fee.\n It is the centre’s objectives to develop learning capabilities and motivate local workforce to train continuously by providing effective and efficient learning in all programmes. As the business environment changes, PPKS will ensure its task as a training provider remain relevant to the business needs and at the same time can play an active and effective role to contribute to the development of human resources in Sarawak.\n PPKS will continue to strive to introduce more courses for the benefits of the public, private sectors and the community at large to keep abreast with the technological advance in order to strike a balance in skilled labour supply and rapid industrialization that the state is experiencing at present and in the future.\n \n International College of Advanced Technology Sarawak (iCATS) also offers their courses in PPKS Miri. The courses offered are Certificates in Electrical and Electronic Engineering, BTEC Level 5 Higher National Diploma (HND) in Electrical Electronic Engineering, Diploma in Business Administration, and Diploma in Plantation Management.",
+    "activity":"Grow Your Own Veggies",
+    "activityDescription":"Grow your own veggies is an activity to demonstrate method of planting vegetable seeds via transplanting. Participants will be given an opportunity to learn different methods of sowing seeds and moving the plant into the vase (transplanting).",
+    "logo":["assets/ppks.png","assets/iCATS.png"]
+  },
+  {
+    "zoneImage":"assets/malaysiaNatureSocietyPlayground.png",
+    "organizer":"Malaysia Nature Society (Mr Musa Musbah)",
+    "aboutOrganizer":"The genesis of our society predates our country’s independence – a group of British expatriates deeply interested in our country’s lush natural heritage decided that the abundant collection of field notes and natural history records which they had accumulated was vital to the country’s heritage and should be published. In 1940, with the publication of the Malayan Nature Journal Volume 1, the Malaysian Nature Society was born. Evolving from a core of society volunteers, MNS’ Kuala Lumpur-based headquarters now has a team of 40 dedicated staff members who see to the day-to-day running of the society’s administration and activities. We have pioneered conservation in Malaysia for the last seven decades, making a difference through habitat conservation and environmental education. Through the joint efforts of our members, partners and supporters, MNS has become a strong voice for the protection of our country’s natural heritage. We will continue presenting our stand by promoting and ensuring responsible environmental stewardship in this country.",
+    "activity":"Malaysia Nature Society Playground",
+    "activityDescription":"",
+    "logo":["assets/malaysiaNatureSociety.png"]
+  }
+]

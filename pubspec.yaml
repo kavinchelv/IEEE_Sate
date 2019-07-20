@@ -1,0 +1,190 @@
+name: ieee_sate
+description: CurtinMalaysiaScienceAndTechnologyExhibition
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  http: ^0.11.3+16
+  photo_view: ^0.4.2
+  flutter_webview_plugin: ^0.2.0
+  path_provider: ^0.4.1
+  url_launcher: ^3.0.1
+  provider: ^2.0.1
+  #new addition for Google LoGin
+  google_sign_in: ^4.0.2
+  firebase_auth: ^0.11.1+7
+  cloud_firestore: ^0.12.5+2
+  rxdart: ^0.21.0
+  #flutter_bloc: ^0.11.0
+  #equatable: ^0.2.0
+  #meta: ^1.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - json_d/sundayschedule.json
+    - json_d/saturdayschedule.json
+    - json_d/zoneA.json
+    - json_d/zoneB.json
+    - json_d/zoneC.json
+    - json_d/zoneD.json
+    - json_d/zoneE.json
+    - json_d/zoneF.json
+    - json_d/zoneG.json
+    - assets/clublogo.png
+    #- assets/curtin.png
+    - assets/IAS.png
+    - assets/poster.png
+    - assets/emb.jpg
+    - assets/3.png
+    - assets/wie.jpg
+    - assets/aaylcLogo.png
+    - assets/aiesec.png
+    - assets/antiGravityFountain.png
+    - assets/appMakingWorkshop.png
+    - assets/aquaponic.png
+    - assets/areTheyReal.png
+    - assets/artOfFolding.png
+    - assets/artSculpture.png
+    - assets/careerPuzzle.png
+    - assets/championshipSchedule.png
+    - assets/chemicalBondingGame.png
+    - assets/chemicalDensityGame.png
+    - assets/chumbaka.png
+    - assets/chumbakaDreamcatcherPlayground.png
+    - assets/codeDroneArena.png
+    - assets/cr8Playground.png
+    - assets/cr8Robotics.png
+    - assets/curtinCivilSociety.png
+    - assets/dreamcatcher.png
+    - assets/edibleArt.png
+    - assets/EvoOfElectricity1.png
+    - assets/EvoOfElectricity2.png
+    - assets/EvoOfElectricity3.png
+    - assets/EvoOfElectricity4.png
+    - assets/EvoOfElectricity5.png
+    - assets/gottaKnockEmAll.png
+    - assets/gyov.png
+    - assets/iCATS.png
+    - assets/iChemE.png
+    - assets/ieeecmsb.png
+    - assets/ieeeNottinghamPlayground.png
+    - assets/ieeeSciAndTechInnovationChampionship.png
+    - assets/ieeeunmc.png
+    - assets/iMechE.png
+    - assets/infoBooth.png
+    - assets/instituteOfMarketingMalaysia.png
+    - assets/intel.png
+    - assets/JI.png
+    - assets/jomtani.png
+    - assets/kidsPlayground.png
+    - assets/kinabaluCoder.png
+    - assets/kinabaluCoderPlayground.png
+    - assets/kpm.png
+    - assets/leoClub.png
+    - assets/lightOfBorneo.png
+    - assets/ludicoloCoffeeBeanShaker.png
+    - assets/malaysiaNatureSociety.png
+    - assets/malaysiaNatureSocietyPlayground.png
+    - assets/microbitWorkshop.png
+    - assets/miriCosplayClub.png
+    - assets/miriMaidCafe.png
+    - assets/multiplicationEscapeCodingActivity.png
+    - assets/nonNewtonianFluidStressBall.png
+    - assets/petrosains.png
+    - assets/petrosainsPlayground.png
+    - assets/petrosainsSchedule.png
+    - assets/pikachuWorldCup.png
+    - assets/planetarium.png
+    - assets/pokemonGoClub.png
+    - assets/ppks.png
+    - assets/psiLogo.png
+    - assets/pustakaLogo.png
+    - assets/pustakaMembershipDrive.png
+    - assets/realFun.png
+    - assets/schlierenPhotography.png
+    - assets/smearglePhotoCorner.png
+    - assets/smkColumbia.png
+    - assets/SparkolVideoscribeWorkshop.png
+    - assets/stemChallengeIntelTrack.png
+    - assets/stemChallengeOpenCat.png
+    - assets/stemChallengeSciTrack.png
+    - assets/stemFun.png
+    - assets/strawBridgeChallenge.png
+    - assets/supportReactionModel.png
+    - assets/tegasLogo.png
+    - assets/thinkBig.png
+    - assets/thymio.png
+    - assets/timburrGuldurrConkeldurr.png
+    - assets/uitm.png
+    - assets/uitmSciencePlayground.png
+    - assets/ultimateSushiSlide.png
+    - assets/unfillableCup.png
+    - assets/unimas.png
+    - assets/unimasSciencePlayground.png
+    - assets/YIC.png
+    - assets/zoneA.png
+    - assets/zoneB.png
+    - assets/zoneC.png
+    - assets/zoneD.png
+    - assets/zoneE.png
+    - assets/zoneF.png
+    #- assets/zoneG.png
+    - assets/alexa.jpg
+    - assets/m100.jpg
+    - assets/miband3.jpg
+    - assets/mipowerbank.jpg
+    - assets/ninswitch.jpg
+    - assets/polaroid.jpg
+    - assets/gamingheadset.jpg
+    - assets/gamingkeyboard.png
+    - assets/gamingmouse.jpg
+    - assets/libbasefloor.png
+    - assets/libgroundfloor.jpg
+    - assets/libfirstfloor.jpg
+    - assets/outsidevenue.jpeg
+    - assets/stemflyer.jpg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+     - family: Julius_Sans_One
+       fonts:
+         - asset: fonts/JuliusSansOne-Regular.ttf
+     - family: Source_Sans_Pro
+       fonts:
+         - asset: fonts/SourceSansPro-Regular.ttf
+     - family: Archivo_Narrow
+       fonts:
+         - asset: fonts/ArchivoNarrow-Regular.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies, 
+  # see https://flutter.io/custom-fonts/#from-packages

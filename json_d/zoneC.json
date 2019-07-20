@@ -1,0 +1,75 @@
+[
+  {
+    "zoneImage":"assets/infoBooth.png",
+    "organizer":"Tabung Ekonomi Gagasan Anak Bumiputera Sarawak (TEGAS) ",
+    "aboutOrganizer":"TEGAS was established in 2012 as a Charitable Trust dedicated to promoting Digital Innovation and Entrepreneurship amongst Sarawakian youth. The vision of TEGAS is to be the leading platform for the promotion of Digital Innovation in Sarawak. Their mission is to promote STEM, TVET and Entrepreneurship through outreach programmes; to foster strategic partnership & ecosystem synergy and to catalyze talent development & community empowerment.",
+    "activity":"Info Booth",
+    "activityDescription":"Two interactive games are presented in this booth, i.e. robot arm and virtual reality. These activities are to engage the public to have excitement in STEM. ",
+    "logo":["assets/tegasLogo.png"]
+  },
+  {
+    "zoneImage":"assets/EvoOfElectricity1.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks. ",
+    "activity":"Evolution of Electricity - Part 1: Discovery of Electricity ",
+    "activityDescription":"\"Evolution of Electricity\" is a programme initiated by IEEE Curtin Malaysia Student Branch to provide a discovery journey from the past to the future about the application of electricity. Part 1: Discovery of Electricity (1752-1930) covers the discovery of electricity by Benjamin Franklin and subsequent innovations.",
+    "logo":["assets/ieeecmsb.png","assets/emb.png","assets/ias.png","assets/wie.png"]
+  },  
+  {
+    "zoneImage":"assets/EvoOfElectricity2.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks. ",
+    "activity":"Evolution of Electricity - Part 2: Era of Semiconductor and Computer  ",
+    "activityDescription":"\"Evolution of Electricity\" is a programme initiated by IEEE Curtin Malaysia Student Branch to provide a discovery journey from the past to the future about the application of electricity. Part 2: Era of Semiconductor and Computer (1930-1990) covers the era detailing the discovery, invention and rise of semiconductors and computers.",
+    "logo":["assets/ieeecmsb.png","assets/emb.png","assets/ias.png","assets/wie.png"]
+  },  
+  {
+    "zoneImage":"assets/EvoOfElectricity3.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks. ",
+    "activity":"Evolution of Electricity - Part 3: Era of Internet and Automation ",
+    "activityDescription":"\"Evolution of Electricity\" is a programme initiated by IEEE Curtin Malaysia Student Branch to provide a discovery journey from the past to the future about the application of electricity. Part 3: Era of Internet and Automation (1991-2008) covers the invention of the internet and subsequent innovations.",
+    "logo":["assets/ieeecmsb.png","assets/emb.png","assets/ias.png","assets/wie.png"]
+  },  
+  {
+    "zoneImage":"assets/EvoOfElectricity4.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks. ",
+    "activity":"Evolution of Electricity - Part 4: Industry 4.0 ",
+    "activityDescription":"\"Evolution of Electricity\" is a programme initiated by IEEE Curtin Malaysia Student Branch to provide a discovery journey from the past to the future about the application of electricity. Part 4: Industry 4.0 (2009-now) covers the current and coming era of IoT and automation.\n IEEE Playground has various interactive projects to demonstrate the 21st century workforce demand in the industry. This is a student initiative industrial revolution 4.0 awareness programme. IEEE activities are demonstrated as follows: \n 1. Artificial Intelligence - Gender Identification using Intel Movidius \n 2. Augmented Reality - AR Pokemon card \n 3. Big data and Analysis - Feedback form in the App development using Google Flutter \n 4. Block chain Technology - STEM Passport with stamping concept in STEM playground \n 5. Cloud Computing - Live board Most Popular Innovative/Inventors Award \n 6. Cyber Security - Morse code wall \n 7. Internet of things (IoT) - Thymio Autonomous Bot \n 8. Smart grid and renewable energy - arduino-based solar tracker \n 9. Virtual Reality - Gaming using Open Source Virtual Reality Set",
+    "logo":["assets/ieeecmsb.png","assets/emb.png","assets/ias.png","assets/wie.png"]
+  },  
+  {
+    "zoneImage":"assets/EvoOfElectricity5.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.",
+    "activity":"Evolution of Electricity - Part 5: Wall of Fame",
+    "activityDescription":"\"Evolution of Electricity\" is a programme initiated by IEEE Curtin Malaysia Student Branch to provide a discovery journey from the past to the future about the application of electricity. Part 5: Wall of Fame is a tribute to some of the brilliant minds that have contributed to advancement of technology for humanity.",
+    "logo":["assets/ieeecmsb.png","assets/emb.png","assets/ias.png","assets/wie.png"]
+  },
+  {
+    "zoneImage":"assets/ieeeNottinghamPlayground.png",
+    "organizer":"Institution of Electrical and Electronics Engineers University of Nottingham Malaysia Student Branch (IEEE UNMC SB) \n \n President: Lai Sue Vei \n Vice President: Chuang Jin Yee \n Logistics: Tan Khai Beng",
+    "aboutOrganizer":"IEEE UNMC SB is established in 2014. It’s a non-profit organization, dedicating to enhancing the student experiences on campus. IEEE UNMC SB united engineering students. We inspire students",
+    "activity":"IEEE Nottingham Playground",
+    "activityDescription":"Demo IR sensor line following car using PID algorithms - This project is aimed for demonstrating the concept of image processing and HTTP protocol. User can control a UI by showing some specified hand gestures in front of camera. \n \n Demo gesture-controlled user interface using NodeJS express framework and image processing technology - This project is set for demonstrating the line following robot by applying the working principle of a sensor and I2C Communication protocol. The robot is designed to follow the predetermined black line on a white surface with the aid of Sunfounder 8-Channel Infrared Detection Tracking Sensor Module.",
+    "logo":["assets/ieeeunmc.png"]
+  },
+  {
+    "zoneImage":"assets/thinkBig.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch \n \n IEEE Humanitarian Activities Committee (HAC)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.\n \n The IEEE Humanitarian Activities Committee (HAC) is tasked with supporting the Board-endorsed vision of IEEE volunteers around the world carrying out and/or supporting impactful humanitarian activities at the local level; i.e., (feet on the ground). The IEEE Humanitarian Activities Committee (HAC) shall be appointed by and shall be responsible to the Board of Directors. The Committee shall support the Board vision of IEEE volunteers around the world, carrying out and/or supporting impactful humanitarian activities at the local level. This support shall include, but shall not be limited to, the development of programs enabling volunteer engagement in humanitarian activities; the review and evaluation of the overall effectiveness of programs; recommending best practices as they relate to programs and projects; evaluation of funding proposals for projects to be carried out at the local level; and the establishment of partnerships with other entities sharing similar goals with respect to humanitarian efforts.",
+    "activity":"\"Think Big\" Corner",
+    "activityDescription":"\"Think-Big\" corner uses info board to demonstrate the IEEE history, achievements and projects of IEEE IAS student chapter and ECE department. Subsequently, a phrase such as \"I dream to be ____\" is posted on the board awaiting for the participants leaving their thought and message on the info boards. It is a corner to spark the participants thought after visiting the science and technology exhibition.",
+    "logo":["assets/ieeecmsb.png","assets/emb.png","assets/ias.png","assets/wie.png"]
+  },
+  {
+    "zoneImage":"assets/codeDroneArena.png",
+    "organizer":"Institute of Electrical and Electronic Engineers(IEEE) Curtin Malaysia Student Branch",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.",
+    "activity":"Code Drone Arena",
+    "activityDescription":"Code Drone is a series of drone activities focusing on school students to increase their awareness towards the mechanism and the usage of drone and UAV (Unmanned Aerial Vehicle). It is a hands on learning of science principles, aerodynamics and drone technology including the safety and precautions.",
+    "logo":["assets/ieeecmsb.png","assets/emb.png","assets/ias.png","assets/wie.png"]
+
+  }
+]

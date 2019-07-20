@@ -1,0 +1,82 @@
+[
+  {
+    "zoneImage":"assets/pustakaMembershipDrive.png",
+    "organizer":"Pustaka Negeri Sarawak, Miri",
+    "aboutOrganizer":"Pustaka Negeri Sarawak, Miri, is a research and reference center, with collections at a level that will be able to assist researchers as well as other knowledge and information seekers in the state of northern region. It is an offsite depository center for legal deposit materials. It is a center for development of special collections relating to Mirian and other local history initiatives. It is also a contributor to Pustaka Negeri Sarawak’s databases on information materials on and about Sarawak, particularly in the Northern Region. It is a place that provides education and activities to raise awareness on information literacy, knowledge-sharing and lifelong learning.",
+    "activity":"Membership Drive and 3D Printing",
+    "activityDescription":"Pustaka Negeri Sarawak will present 3D printing, Mbot, Membership Drive, TENBY and ANTS Education in the STEM playground to engage with participants about the awareness of library and promote reading behavior.",
+    "logo":[
+    "assets/pustakaLogo.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/kidsPlayground.png",
+    "organizer":"Pustaka Negeri Sarawak, Miri",
+    "aboutOrganizer":"Pustaka Negeri Sarawak, Miri, is a research and reference center, with collections at a level that will be able to assist researchers as well as other knowledge and information seekers in the state of northern region. It is an offsite depository center for legal deposit materials. It is a center for development of special collections relating to Mirian and other local history initiatives. It is also a contributor to Pustaka Negeri Sarawak’s databases on information materials on and about Sarawak, particularly in the Northern Region. It is a place that provides education and activities to raise awareness on information literacy, knowledge-sharing and lifelong learning.",
+    "activity":"Kids Playground",
+    "activityDescription":"Kids Playground is a place for kids from 4 to 7 years old to learn while have fun. The activities in this area are LEGO, DIY Slime Class, Bubble & Balloon, Makey-Makey, and 3D Doodle Pen.",
+    "logo":[
+    "assets/pustakaLogo.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/thymio.png",
+    "organizer":"Institute of Electrical and Electronics Engineers (IEEE)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.",
+    "activity":"Thymio Autonomous Bot",
+    "activityDescription":"Thymio is a small robot which will allow you to discover the universe of robotics and learn a robot's language. You will be able to program it and carry out numerous experiments. With Thymio, the basics of robotics and programming become notions everyone can discover, whatever their age. Alone, with your friends or parents, program your robot so it becomes the hero of your adventures.  École Polytechnique Fédérale de Lausanne scientists have developed “Thymio” an educational robot designed to introduce children to technology in schools.  The 11 cm x 11 cm Thymio is equipped with proximity sensors (it can detect close objects), ground-directed sensors (it can detect the edge of a table around which it’s circulating, or a line to follow), accelerometers (It can measure acceleration, detect impacts and indicate gravity), a microphone and a temperature sensor (an electronic thermometer). It also has a memory card for recording sound. Nowadays, coding is not only a plus at school, but also an essential ability in everyday life.  We would like to invite you to make Thymio as the Careful Driver or Car Racer by attending an hour workshop. \n \nYou can learn programming with Thymio through a selection of several languages and environments. With the Wireless version, you keep a constant connection with your robot. Program and reprogram it on the fly, while it is on the playground! The basic behaviours of the robot and the different programming environments allow children aged 6 and more to discover the fantastic world of robotics. These programming capabilities have been carefully designed by scientists, and innovative features, such as showing in real time which part of the program is being executed, have been demonstrated to improve learning. This feature is especially useful with the Wireless Thymio, as you can analyse how your program is executed in real time while the robot operates on the playground. \n\nActivities include:- \nConcurrent Programming\nAccelerometer Demonstration\nCareful Drive\nRaceCar Driver",
+    "logo":[
+    "assets/ieeecmsb.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/artOfFolding.png",
+    "organizer":"Institute of Marketing Malaysia",
+    "aboutOrganizer":"The Institute of Marketing Malaysia (IMM) is the only registered Institute in the country established for the purpose of serving the marketing fraternity in Malaysia. Formed under the Society’s Act in 1979, the Institute has assisted and will continue to assist, train and bring together marketers from various businesses and industries with one common goal and that is to improve the marketing skills of its members. The primary objective of the Institute as enshrined in its Constitution is “to organise, oversee, maintain, promote, protect and assist by all lawful means the rights and interests of marketing practitioners in Malaysia, especially those who are members of the Institute”. Members of IMM are affiliated to the esteemed Asia Pacific Marketing Federation (APMF) as well as the World Marketing Association (WMA). IMM and its members currently have global access to a truly international platform for marketing networks, which is a valuable ‘infrastructure’ for building business in the emerging, borderless world.",
+    "activity":"Art of Folding",
+    "activityDescription":"Art of Folding is to wrap your mind around this original collection of origami paper puzzles! You are required to transform each sheet into a square shape so that only black shows on one side and only white on the other. It starts off simple but the challenge increases with every crease of paper! Includes 100 captivating puzzles. Once you start folding, you won't be able to stop!",
+    "logo":[
+    "assets/instituteOfMarketingMalaysia.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/multiplicationEscapeCodingActivity.png",
+    "organizer":"Realfun Learning Centre (Mr. Teo Yuang Teck)",
+    "aboutOrganizer":"Realfun Learning Centre, started with the mission to help next generation to be future ready. With over 10 years of experience in IT and engineering, Y.T. Teo the founder of Realfun, believes that the skills required for us to succeed in future, or even to survive is going to be very different compared to now. Hence, he started the company to teach coding for children, to help them be ready for the unknown challenge that is coming ahead of them. He is also certified Blue Ribbon Educator by Tynker, coding platform that he used to conduct the coding lessons.",
+    "activity":"Multiplication Escape Coding Activity",
+    "activityDescription":"Students will program a fun game for Math class about a character that needs to escape a cave without getting hit by falling boulders. They’ll create a custom character and program that character to only run forward when the player answers a multiplication question correctly! They’ll also program the falling boulders and detect whether the player has won or lost the game. Activity will be scheduled to start every 30 mins to ensure all students have chance to code their own Math game.",
+    "logo": [
+    "assets/realFun.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/SparkolVideoscribeWorkshop.png",
+    "organizer":"Pustaka Negeri Sarawak, Miri",
+    "aboutOrganizer":"Pustaka Negeri Sarawak, Miri, is a research and reference center, with collections at a level that will be able to assist researchers as well as other knowledge and information seekers in the state of northern region. It is an offsite depository center for legal deposit materials. It is a center for development of special collections relating to Mirian and other local history initiatives. It is also a contributor to Pustaka Negeri Sarawak’s databases on information materials on and about Sarawak, particularly in the Northern Region. It is a place that provides education and activities to raise awareness on information literacy, knowledge-sharing and lifelong learning.",
+    "activity":"SPARKOL VIDEOSCRIBE Workshop",
+    "activityDescription":"Sparkol Video Scribe  is an application for Mac and windows whereby it is an advertising application that can be use by everyone to market their own product through create a simple storyboard on the app and videoscribe will generate the animation into the video or presentation, user might use their own creativity to produce  the video making  as the result  the format of the video can be selected by the user. With VideoScribe, you can make animation videos without previous training or massive fees. Reach your target market with absorbing whiteboard drawing, whatever your budget. Besides of advertising, video scribe is a new idea for presentation making, the video will be more infographic and easily to understanding by create a story on the presentation. The main target audience for the app is secondary school, university student and adult. The application might be required to register first for the new user and it is online application. Sparkolvideo scribe will be conduct at Pustaka meeting room (MMG) with 10pax per session, each of the predicators need to prepare their own laptop and mouse  to be used during the class. One session will be conduct for 1 hours only. \n\nStart:10.00 a.m - 4.00 p.m\nVenue: Meeting Room(MMG) Pustaka\nFacilitator: Affendi Bin Iezara\nParticipants per session: 10 pax\nPlatform: Windows",
+    "logo":[
+    "assets/pustakaLogo.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/appMakingWorkshop.png",
+    "organizer":"Pustaka Negeri Sarawak, Miri",
+    "aboutOrganizer":"Pustaka Negeri Sarawak, Miri, is a research and reference center, with collections at a level that will be able to assist researchers as well as other knowledge and information seekers in the state of northern region. It is an offsite depository center for legal deposit materials. It is a center for development of special collections relating to Mirian and other local history initiatives. It is also a contributor to Pustaka Negeri Sarawak’s databases on information materials on and about Sarawak, particularly in the Northern Region. It is a place that provides education and activities to raise awareness on information literacy, knowledge-sharing and lifelong learning.",
+    "activity":"APP MAKING (Appery IO) Workshop",
+    "activityDescription":"Appery is a cloud-based mobile app builder that  can be use to create apps for Android or iOS, and it includes Apache Cordova (Phone Gap), Ionic, and jQuery Mobile with access to its built-in components. Since the builder runs in the cloud, there's nothing to install or download, and it's easy to get started quickly. The Appery app builder includes a visual editor using drag and drop components to build the UI. Appery auto-generates the code for any components you drop in. You can connect to any REST API and use it in your app, and instantly add a cloud database and backend to your app if you need to store data. Appery classes will be conduct at Pustaka meeting room (MMG)  with 10pax per session, each of the participants need to prepare their own laptop and mouse  to be used during the class. One session will be conduct for 2 hours only. \n\nStart:10.00 a.m - 4.00 p.m\nVenue: Meeting Room(MMG) Pustaka\nFacilitator: Muhammad Asyraf Bin Yakup\nParticipants per session: 10 pax\nPlatform: Android",
+    "logo":[
+    "assets/pustakaLogo.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/microbitWorkshop.png",
+    "organizer":"Tabung Ekonomi Gagasan Anak Bumiputera Sarawak (TEGAS)",
+    "aboutOrganizer":"Tabung Ekonomi Gagasan Anak Bumiputera Sarawak (TEGAS) is a Charitable Trust dedicated to promoting Science, Technology, Engineering & Mathematics (STEM), Technical & Vocational Education & Training (TVET) and Entrepreneurship amongst Sarawakian youth. TEGAS was formed in 2012 and is led by The Honourable Datu Haji Len Talif Salleh, Assistant Minister of Urban Planning, Land Administration and Environment. To know more about TEGAS's efforts and initiatives in empowering the youths. \n \n Curtin Malaysia is a partnership between Curtin University in Australia and the State Government of Sarawak. We offer students the unique opportunity to follow courses from a celebrated Australian university right in the heart of tropical East Malaysia. Our internationally recognized degrees are exactly the same as those awarded in Australia. The difference is our unique location on the west coast of Sarawak, with 187 000 hectares of coastal reef on our doorstep and the 140 million year old rain forests of Borneo in our backyard.",
+    "activity":"Microbit Workshop",
+    "activityDescription":"Training of Trainer. It is a 2 days series workshop teaching a basic of Micro:bit micro-controller and sensor. Each school will be sending one teacher and one student to explore the use of Micro:bit to come up with innovative idea and solution. The participants will be given a set of Micro:bit board and sensor kit to be brought back and being shared back with their students in School. The objective of this program is we want to train the student and teacher on how to use the micro-controller board for innovative project in their school. Besides that, to help up-skills teachers with new knowledge on technology.",
+    "logo":[
+    "assets/tegasLogo.png"
+    ]
+  }
+]

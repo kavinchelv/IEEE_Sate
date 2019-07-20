@@ -1,0 +1,74 @@
+[
+  {
+    "zoneImage":"assets/JI.png",
+    "organizer":"All Aboard Young Leaders Center (AAYLC)",
+    "aboutOrganizer":"AAYLC is dedicated to the empowerment of youths and children. A home-grown Sarawak-Borneo social enterprise, we aspire to help young people discover themselves and grow into confident individuals, innovative thinkers and problem solvers with a heart for the community.",
+    "activity":"Junior Innovate",
+    "activityDescription":"Junior Innovate is a STEM competition to inspire digital creator mindset and life skills amongst primary school students in preparation for jobs of the future. In this programme, students are trained with embedded system with scratch programming, ideas realizing and learnings, and project demonstration through story telling. It opens to any primary schools registered in Malaysia aged from 9-12 years old. Students learns to hack their toy using open-source hardware and software for project implementation. For more information, you may visit to http://juniorinnovate.asia/. The number of teams and students involved are 75 students and 55 teachers from 30 schools (40-44 teams).",
+    "logo":
+    [
+    "assets/aaylcLogo.png",
+    "assets/chumbaka.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/YIC.png",
+    "organizer":" All Aboard Young Leaders Center (AAYLC) \n \n Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMB student chapter)",
+    "aboutOrganizer":"AAYLC is dedicated to the empowerment of youths and children. A home-grown Sarawak – Borneo social enterprise, we aspire to help young people discover themselves and grow into confident individuals, innovative thinkers and problem solvers with a heart for the community. \n \n IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.",
+    "activity":"STEM Challenge Tech Track - Young Innovators Challenge (YIC)",
+    "activityDescription":"STEM Challenge Tech Track is a STEM competition aimed to promote digital inventors among secondary school students to showcase their creativity, innovations and problem-solving skills through digital embedded system. Participants are required to identify real-life problems, design a solution and deliver their idea via prototyping construction with Arduino board. Approximately 80 secondary school teams are joining in the CYIC program during IEEE Science and Technology Exhibition.",
+    "logo":[
+    "assets/aaylcLogo.png",
+    "assests/chumbaka.png",
+    "assets/ieeecmsb.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/stemChallengeSciTrack.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.",
+    "activity":"STEM Challenge - Science Track",
+    "activityDescription":"STEM Challenge - Science Track is a competition aimed to instill the interest of secondary school students in learning science and technology for advancing the community and lifestyle. Participants are required to demonstrate practical solution in science through their creativity, innovations and problem-solving skills. Approximately 15 secondary school teams are targeted to join in the STEM Challenge - Science Track during IEEE STEM Park.",
+    "logo":[
+	"assets/ieeecmsb.png"
+	]
+  },
+  {
+    "zoneImage":"assets/stemChallengeOpenCat.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.",
+    "activity":"STEM Challenge - Open Category (SC-Open Category)",
+    "activityDescription":"STEM Challenge - Open Category is a platform for anyone to apply their science knowledge through a hands-on learning approach. Participants are required to apply innovative and creative thinking in order to solve real-life problems. At the same time, this program aims to create technology entrepreneurship in community using their designed products in leveraging communities in term of social and economic aspects. 10 teams of competitors are joining in this program during the IEEE STEM Park",
+    "logo":[
+    "assets/ieeecmsb.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/stemChallengeIntelTrack.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter) \n \n Intel Technology Sdn. Bhd.",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks. \n \n Intel Corporation is an American multinational semiconductor chip maker corporation established on 1968. It is the largest maker of semiconductor chip in the world. Intel operates worldwide and is headquartered in Santa Clara, California, United States. SRAM and DRAM was first developed by the Intel and the first commercial microchip was created by the Intel in 1971. The first Pentium mobile processor was introduced by the Intel in 2011 based on the Sandy Bridge Core. Intel is one of the most recognizable and famous computer brands of the world. Intel Technology Sdn. Bhd. is a subsidiary of Intel Corporation and is located in Penang, Malaysia.",
+    "activity":"STEM Challenge - Open Category Intel Track ",
+    "activityDescription":"STEM Challenge - Open Category Intel Track is a platform for university to apply their knowledge using Intel Up-Square board and OpenVino. Participants are required to apply innovative and creative thinking in order to solve real-life problems. At the same time, this program aims to create technology entrepreneurship among community using their designed products in leveraging communities in term of social and economic aspects. 10 teams of competitors are joining in this program during the IEEE STEM Park.",
+    "logo":[
+	"assets/ieeecmsb.png",
+	"assets/intel.png"
+	]
+  },  
+  {
+    "zoneImage":"assets/ieeeSciAndTechInnovationChampionship.png",
+    "organizer":"Institute of Electrical and Electronic Engineers (IEEE) Curtin Malaysia Student Branch (IAS, WIE, EMBS student chapter)",
+    "aboutOrganizer":"IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, and technology. We extend IEEE membership benefits to the student branch members and additional participants through the organization of academic and technical workshops, large scale exhibit events, student competitions, site visits and industrial talks.",
+    "activity":"IEEE Science and Technology Innovation Championship",
+    "activityDescription":"IEEE Science and Technology Innovation Championship is a STEM challenge open for all STEM Challenge teams. Here is the awards description. \n \n 1. Most Popular Innovators Award \n Student teams have to engage, interact and explain to the public audiences about their project development and concept. Each audience could only cast THREE votes to three favorite teams in the exhibition. You may ask your parent, friends, and relatives to come to vote for you during the exhibition. \n \n 2. Best Idea Award \n \"Everything begins with an Idea!\", and that’s what we believe. Student teams should present their idea and problem statement to the judging panels on 4th August. For this award, the judging criteria will purely base on the innovative ideas and conceptual work. Working prototype is optional.  \n \n 3. Best Pitching Award \n Pitching is one way to communicate your idea to the world. Student teams should pitch their idea and problem statement to the judging panels at the booth on 4th August. The pitching should be conducted in a confident manner and clear statement. \n \n 4. Best Team Cheer Award \n A quote from Steve Job: \"Great things in Business are never done by one person. They’re done by a team of people.\", Team spirit is one of the elements to make project success. This is the non-technical award where students should retain their high spirit (Never Give Up spirit) to fight till the end of the journey whether the prototype is working or not. \n \n 5. Outstanding Innovators Award \n The overall performance of student teams include technical and non-technical knowledge will be judged in this category. Three winners from STEM Challenge (Tech Track) and three winners from STEM Challenge (Science Track) will be selected during the “On-Stage-Pitching” session.",
+	"activityImage":[
+	"assets/championshipSchedule.png"
+	],
+    "logo":[
+	"assets/ieeecmsb.png",
+	"assets/emb.png",
+	"assets/wie.png",
+	"assets/IAS.png"
+	]
+  }
+  
+]

@@ -1,0 +1,64 @@
+[
+	{
+    "zoneImage":"assets/unimasSciencePlayground.png",
+    "organizer":"Universiti Malaysia Sarawak (UNIMAS)",
+    "aboutOrganizer":"Universiti Malaysia Sarawak (UNIMAS), Malaysia's eighth university was officially incorporated on 24 December 1992. A university that is contemporary in character and forward-looking in outlook, it is committed in providing the nation with leaders, managers, scientists and technical specialists as well as thoughtful citizens who are capable of handling the complex challenges of our common future - confidently, competently, and creatively. The university vision is to become an exemplary university of internationally acknowledged stature and a scholarly institution of choice for both students and academics through the pursuit of excellence in teaching, research and scholarship. Its mission is to generate, disseminate and apply knowledge strategically and innovatively to enhance the quality of the nation's culture and prosperity of its people.",
+    "activity":"UNIMAS Science Playground",
+    "activityDescription":"",
+    "logo":[
+      "assets/unimas.png"
+    ]
+  },
+  {
+    "zoneImage":"assets/uitmSciencePlayground.png",
+    "organizer":"University Teknologi Mara (UiTM)",
+    "aboutOrganizer":"",
+    "activity":"UiTM Science Playground",
+    "activityDescription":"UiTM is doing a series of STEM activities to ignite interest in the youth toward science, technology and mathematics. These activities aim to educate and entertain include: \n \n HEXA-STEM GO! - Hexagonal board game focusing on different topics in STEM. \n Invitation to create : Build A Bug. \n Microscopic explorations exercises. \n Insect collection Box Display - Broad range of tropical insect specimens consist of Lepidoptera, Coleoptera, Odonataa and many more.",
+    "logo":[
+      "assets/uitm.png"
+    ]
+  },	
+  {
+    "zoneImage":"assets/petrosainsPlayground.png",
+    "organizer":"Petrosains",
+    "aboutOrganizer":"Petrosains is a Science Discovery Centre that uses a fun and interactive approach to tell the story of the science and technology of the energy industry. The sequence of the exhibits in Petrosains traces the evolution and scientific relevance of the energy industry while also focusing on general science and its application to everyday life. The hands-on approach adopted by Petrosains plus an emphasis on the fun and excitement of learning rather than on the rigorous memorization of scientific facts. \n \n Petrosains brand promise is creating wonder while it vision is to create wonder and inspire people through engaging and imaginative experiences. The company is committed to provide and nurture meaningful science learning through Petrosains, The Discovery Centre. It strives for sustainability by providing a strategic portfolio of offerings and delivering world class customer service via the visit experience at both Petrosains - The Discovery Centre and the PETRONAS Twin Towers. In essence, Petrosains aims to enrich people’s lives and enhance the nation’s future.",
+    "activity":"Petrosains Playground",
+    "activityDescription":"Petrosains would demonstrate Robotic Competition and Science Show (Cool Chemistry, Pressure show and Combustion Show). The activities schedules are as follows:",
+	"activityImage":["assets/petrosainsSchedule.png"],
+    "logo":[
+      "assets/petrosains.png"
+    ]
+  },	
+  {
+    "zoneImage":"assets/cr8Playground.png",
+    "organizer":"Creative Robotic Borneo (CR8)",
+    "aboutOrganizer":"Creative Robotics™ Learning Center (widely known as \"CR8®\", pronounced \"create\") is a company dedicated to preparing the youth of today for the world of tomorrow by infusing vital competences, hard skills, and soft skills (also known as people skills, such as communication, teamwork, problem solving and observation) in a fun and exciting way. By doing so, students will not be left out in today’s fast-paced, technology-oriented world. They are the “Young Creators” that may one day engineer a better tomorrow.",
+    "activity":"CR8 Playground",
+    "activityDescription":"CR8 will be hosting a LEGO Mindstorm and Robotics Workshop. They will be conducting 90 min sessions on building and programming competition grade robot with LEGO mindstorm kits (Max 12 pax per session)",
+    "logo":[
+      "assets/cr8Robotics.png"
+    ]
+  },	
+  {
+    "zoneImage":"assets/kinabaluCoderPlayground.png",
+    "organizer":"Kinabalu Coders",
+    "aboutOrganizer":"We are the Sabah Programmers and ICT Builders Association (Malay: Persatuan Pengaturcara Dan Pembina ICT Sabah) - better known as Kinabalu Coders (\"KC\"). Established and registered in May 2014, we are a coalition of leads, organisers, and volunteers from tech and maker related communities and local industries. Kinabalu Coders provides a platform for its member to engage with each other; make technology accessible; share knowledge and collaborate on projects; and reach out to like-minded individuals and organisations all across Sabah. KC seeks to improve awareness and penetration of the latest concepts and applications from the global Coder, Tech and Maker movements. We strive to raise the overall proficiency of the communities we support, and thus improve the socioeconomic standard of our society as a whole through IT and tech. We support and celebrate the arts, invention, innovation, creation and expression in all forms. The spirit of Bikin Sendiri (English: Do-It-Yourself) is in the collective DNA of our association and its communities. We look forward to hearing from you and hope you will support our activities and events in the near future.",
+    "activity":"Kinabalu Coder Playground",
+    "activityDescription":"Kinabalu coder playground has the following activities: \n \n 1. Raspberry Pi \n 2. 3D Printing \n 3. Rero \n 4. IoT (Arduino) & Line Tracer \n 5. RoboNeo & #KitaBikin Maker Expo promotion \n 6. Microbit mini workshop \n 7. #pifi.my crowd counter",
+    "logo":[
+      "assets/kinabaluCoders.png"
+    ]
+  },	
+  {
+    "zoneImage":"assets/chumbakaDreamcatcherPlayground.png",
+    "organizer":"DreamCatcher Consulting Sdn. Bhd. \n \n Chumbaka Sdn. Bhd",
+    "aboutOrganizer":"DreamCatcher Consulting Snd. Bhd. was founded in 2002 to provide technical training to the electrical and electronics industry. With a profitable growth and a highly experience team of technical professionals, we have since expanded to serve other industries such as Telecommunication, Oil & Gas and Life Sciences. \n \n Chumbaka Sdn Bhd’s goal is re-ignite children’s passion for learning. Why re-ignite? Because we are all born scientists—curious, eager to learn and explore. Somewhere along the way the passion for learning diminishes due to academic and social pressure. Through our program, we hope our children stay curious and help inspire others to become life-long learners.",
+    "activity":"Chumbaka/DreamCatcher Playground",
+    "activityDescription":"Learn Science Through Play - Learn about complex science concepts through simple activities that can be done using materials easily found at home. Encourage students to explore science through internet and recyclable material.",
+    "logo":[
+      "assets/dreamcatcher.png",
+	  "assets/chumbaka.png"
+    ]
+  }
+]
