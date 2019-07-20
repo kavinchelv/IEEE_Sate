@@ -25,7 +25,7 @@ class MembersStatefulW extends StatefulWidget{
 }
 class _Members extends State<MembersStatefulW>{
 
-  //String googleMapsApiKey = 'AIzaSyCyQkBfGuJwUqz2dJnEa99hDvOTZ87D2pw';
+  //String googleMapsApiKey = 'ApiKey';
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
